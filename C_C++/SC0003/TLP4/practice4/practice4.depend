@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635394237 source:c:\users\jeric\onedrive\documents\c\tlp4\practice4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

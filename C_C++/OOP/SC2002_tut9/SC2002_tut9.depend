@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1667196265 source:c:\users\jeric\onedrive\documents\c\oop\sc2002_tut9\classb.cpp
+	"ClassB.h"
+	<iostream>
+
+1667201137 source:c:\users\jeric\onedrive\documents\c\oop\sc2002_tut9\main.cpp
+	<iostream>
+	"ClassA.h"
+	"ClassB.h"
+
+1667201510 source:c:\users\jeric\onedrive\documents\c\oop\sc2002_tut9\classa.cpp
+	"ClassA.h"
+	<iostream>
+
+1667201448 c:\users\jeric\onedrive\documents\c\oop\sc2002_tut9\classa.h
+
+1667196859 c:\users\jeric\onedrive\documents\c\oop\sc2002_tut9\classb.h
+	"ClassA.h"
+
+1667201510 source:c:\users\jeric\onedrive\documents\c_c++\oop\sc2002_tut9\classa.cpp
+	"ClassA.h"
+	<iostream>
+
+1667201448 c:\users\jeric\onedrive\documents\c_c++\oop\sc2002_tut9\classa.h
+
+1667196265 source:c:\users\jeric\onedrive\documents\c_c++\oop\sc2002_tut9\classb.cpp
+	"ClassB.h"
+	<iostream>
+
+1667196859 c:\users\jeric\onedrive\documents\c_c++\oop\sc2002_tut9\classb.h
+	"ClassA.h"
+
+1667201707 source:c:\users\jeric\onedrive\documents\c_c++\oop\sc2002_tut9\main.cpp
+	<iostream>
+	"ClassA.h"
+	"ClassB.h"
+

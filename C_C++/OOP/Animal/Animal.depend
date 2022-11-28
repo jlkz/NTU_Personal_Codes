@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1667488465 source:c:\users\jeric\onedrive\documents\c_c++\oop\animal\main.cpp
+	"animal.h"
+	"childAnimal.h"
+	<iostream>
+	<string>
+
+1667487810 source:c:\users\jeric\onedrive\documents\c_c++\oop\animal\childanimal.cpp
+	"animal.h"
+	"childAnimal.h"
+	<iostream>
+	<string>
+
+1667488929 source:c:\users\jeric\onedrive\documents\c_c++\oop\animal\zoomain.cpp
+	"animal.h"
+	"childAnimal.h"
+	<iostream>
+	<string>
+
+1667487268 c:\users\jeric\onedrive\documents\c_c++\oop\animal\animal.h
+	<string>
+
+1667486451 c:\users\jeric\onedrive\documents\c_c++\oop\animal\childanimal.h
+	"animal.h"
+
+1667487374 source:c:\users\jeric\onedrive\documents\c_c++\oop\animal\animal.cpp
+	"animal.h"
+	<iostream>
+	<string>
+

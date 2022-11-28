@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635219951 source:c:\users\jeric\onedrive\documents\c\tlp4\labq2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
